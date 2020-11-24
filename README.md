@@ -5,6 +5,9 @@
 What do product manager do? 
 https://www.youtube.com/watch?v=yUOC-Y0f5ZQ
 
+What to expect as an Associate Product Manager 
+https://youtu.be/3bP2aGGbQf4
+
 How to Crack the Product Manager Interview
 https://www.youtube.com/watch?v=61M1r69ZWDg
 
