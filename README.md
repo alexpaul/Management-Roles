@@ -2,7 +2,7 @@
 
 ## Product Manager Video Walkthroughs
 
-What do product manager do? 
+What do product managers do? 
 https://www.youtube.com/watch?v=yUOC-Y0f5ZQ
 
 Program Manager Interview
