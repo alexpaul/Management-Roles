@@ -67,6 +67,16 @@ This is a great opportunity  with room for potential career growth within the or
 * [Barbara's Product Marketing Resources](https://barbaratallent.com/how-to/product-presentations.html)
 * [19 Impressive Product Demo Videos](https://blog.hubspot.com/marketing/demo-video)
 
+#### Some guidelines if doing a solo presentation to a prospective employer
+
+* Your project / app overview 
+* The role that you played in the overall project 
+* How did you reach to the following decisions for the product: 
+  * Why did you create this product 
+  * What drove the product design
+  * How did you and your team decide on the structure of the data
+  * What is your target audience
+
 ## Resources 
 
 1. [Wikipedia - Product Manager](https://en.wikipedia.org/wiki/Product_manager)
