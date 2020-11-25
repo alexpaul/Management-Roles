@@ -44,3 +44,7 @@ This is a great opportunity  with room for potential career growth within the or
 * Self- motivated, takes initiative and is willing to accept responsibilities for results.
 * Commitment to learning.
 * Good interpersonal skills. 
+
+## Resources 
+
+1. [Wikipedia - Product Manager](https://en.wikipedia.org/wiki/Product_manager)
