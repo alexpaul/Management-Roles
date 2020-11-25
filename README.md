@@ -60,6 +60,12 @@ This is a great opportunity  with room for potential career growth within the or
 * Use Case 
 * Beta Test
 
+## Product Presentation 
+
+![product presentation](https://user-images.githubusercontent.com/1819208/100226800-3cad0c00-2eee-11eb-9d17-d12cd5f0b611.png)
+
+[Barbara's Product Marketing Resources](https://barbaratallent.com/how-to/product-presentations.html)
+
 ## Resources 
 
 1. [Wikipedia - Product Manager](https://en.wikipedia.org/wiki/Product_manager)
