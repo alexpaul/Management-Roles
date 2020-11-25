@@ -69,6 +69,8 @@ This is a great opportunity  with room for potential career growth within the or
 
 #### Some guidelines if doing a solo presentation to a prospective employer
 
+> First and foremost know your target audience and create a script that will help you in creating the slides and driving the demo.
+
 * Your project / app overview 
 * The role that you played in the overall project 
 * How did you reach to the following decisions for the product: 
