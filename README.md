@@ -66,3 +66,4 @@ This is a great opportunity  with room for potential career growth within the or
 2. [Wikipedia - Agile Software Development](https://en.m.wikipedia.org/wiki/Agile_software_development)
 3. [Product Management Terms Explained](https://www.productplan.com/product-management-terms-explained/)
 4. [Glossary to Product Management Acronyms and Jargon](https://medium.com/agileinsider/glossary-of-product-management-acronyms-and-jargon-b371b7daa9aa)
+5. [7 Tips for better design demos](https://ux.shopify.com/7-tips-for-an-effective-ux-demo-e8adf2bfe857)
