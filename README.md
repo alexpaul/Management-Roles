@@ -11,6 +11,9 @@ https://youtu.be/Uk70uQkPf-I
 Product Management: An Overview
 https://youtu.be/88ZfjnDOmp4
 
+How to become a PM without experience 
+https://youtu.be/T9ihoDHLyGQ
+
 What to expect as an Associate Product Manager 
 https://youtu.be/3bP2aGGbQf4
 
