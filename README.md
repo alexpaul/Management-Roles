@@ -50,8 +50,12 @@ This is a great opportunity  with room for potential career growth within the or
 * Agile Software Development 
 * User Stories 
 * User Journey 
+* MVP 
+* Use Case 
+* Beta Test
 
 ## Resources 
 
 1. [Wikipedia - Product Manager](https://en.wikipedia.org/wiki/Product_manager)
 2. [Wikipedia - Agile Software Development](https://en.m.wikipedia.org/wiki/Agile_software_development)
+3. [Product Management Terms Explained](https://www.productplan.com/product-management-terms-explained/)
