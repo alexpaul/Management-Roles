@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=yUOC-Y0f5ZQ
 Program Manager Interview
 https://youtu.be/Uk70uQkPf-I
 
+Product Management: An Overview
+https://youtu.be/88ZfjnDOmp4
+
 What to expect as an Associate Product Manager 
 https://youtu.be/3bP2aGGbQf4
 
