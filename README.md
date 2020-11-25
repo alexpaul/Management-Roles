@@ -1,4 +1,4 @@
-# Product Manager Primer
+# Product Management
 
 ## Product Manager Video Walkthroughs
 
