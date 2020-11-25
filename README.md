@@ -45,6 +45,13 @@ This is a great opportunity  with room for potential career growth within the or
 * Commitment to learning.
 * Good interpersonal skills. 
 
+## Vocabulary 
+
+* Agile Software Development 
+* User Stories 
+* User Journey 
+
 ## Resources 
 
 1. [Wikipedia - Product Manager](https://en.wikipedia.org/wiki/Product_manager)
+2. [Wikipedia - Agile Software Development](https://en.m.wikipedia.org/wiki/Agile_software_development)
