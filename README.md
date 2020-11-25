@@ -62,7 +62,7 @@ This is a great opportunity  with room for potential career growth within the or
 
 ## Product Presentation 
 
-![product presentation](https://user-images.githubusercontent.com/1819208/100226800-3cad0c00-2eee-11eb-9d17-d12cd5f0b611.png)
+![product presentation](https://user-images.githubusercontent.com/1819208/100227131-a75e4780-2eee-11eb-8c91-b81ec7dff6fa.png)
 
 [Barbara's Product Marketing Resources](https://barbaratallent.com/how-to/product-presentations.html)
 
