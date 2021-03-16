@@ -1,6 +1,6 @@
 # Product Manager
 
-## Product Manager Roles 
+## Product Manager Responsibilities 
 
 * Sales, marketing and revenue numbers 
 * Research, analysis, strategic planning 
