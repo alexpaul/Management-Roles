@@ -1,7 +1,7 @@
 # Project Manager
 
 
-## Project Manager Roles 
+## Project Manager Responsibilities 
 
 * Project planning, scope, delivery  
 * Facilitate and protect the team from distractions 
