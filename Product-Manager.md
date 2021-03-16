@@ -1,5 +1,11 @@
 # Product Manager
 
+## Product Manager Roles 
+
+* Sales, marketing and revenue numbers 
+* Research, analysis, strategic planning 
+* Business success of the product 
+
 ## Product Manager Video Walkthroughs
 
 What do product managers do? 
