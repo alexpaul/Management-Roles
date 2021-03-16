@@ -1,7 +1,7 @@
 # Project Manager
 
 
-## Project Manager Reoles 
+## Project Manager Roles 
 
 * Project planning, scope, delivery  
 * Facilitate and protect the team from distractions 
