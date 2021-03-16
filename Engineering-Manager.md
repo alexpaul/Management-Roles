@@ -1,6 +1,6 @@
 # Engineering Manager 
 
-## Engineering Manager Roles 
+## Engineering Manager Responsibilities 
 
 * Directs
 * Plans
